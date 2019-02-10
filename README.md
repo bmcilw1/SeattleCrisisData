@@ -9,3 +9,5 @@ This project explores the Kaggle [Seattle Crisis Data](https://www.kaggle.com/ci
     * `python3 -m venv env`
 1. Install the requirements 
     * `pip install -r requirements.txt`
+1. Launch Jupyter with the .ipynb file
+    * `jupyter notebook SeattleCrisisDataExploration.ipynb`

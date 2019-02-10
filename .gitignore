@@ -1,3 +1,4 @@
 seattle-crisis-data
 env
 .DS_Store
+.ipynb_checkpoints

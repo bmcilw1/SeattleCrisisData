@@ -1,4 +1,4 @@
-# Exploration of Kaggle Seattle Crisis Data
+# An Exploration of Kaggle Seattle Crisis Data
 
 This project explores the Kaggle [Seattle Crisis Data](https://www.kaggle.com/city-of-seattle/seattle-crisis-data/)
 
